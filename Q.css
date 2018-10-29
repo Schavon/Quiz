@@ -1,0 +1,29 @@
+.quiz {
+		border:1px solid black;
+		padding: 20px;
+	}
+	.myQ {
+		font-size: 24px;
+		font-weight: bold;
+		padding: 10px;
+
+	}
+
+	.btnAns {
+		border: 1px solid #ddd;
+		padding: 10px;
+		text-align: center;
+		display: block;
+		font-size: 16px;
+	}
+
+	.btnAns:hover {
+		background-color: cornflowerblue;
+		color: azure;
+
+	}
+
+	.seAnswer {
+		background-color: cadetblue;
+		color: white;
+	}
