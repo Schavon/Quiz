@@ -7,6 +7,8 @@ let score = 0;
 loadQuestions();
 
 
+// testing new stuff
+
 //event listeners
 btnPre.onclick = function () {
 	buildQuiz(page - 1)
